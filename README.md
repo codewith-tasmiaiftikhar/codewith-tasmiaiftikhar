@@ -1,8 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6FB5,100:C77DFF&text=Hi,%20I'm%20Tasmia&fontColor=1A0F17&fontSize=42&height=200&desc=Software%20Developer%20%C2%B7%20Welcome%20to%20my%20profile&descColor=1A0F17&descAlignY=75" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,10,14&text=Tasmia%20Iftikhar&fontColor=FDEAF3&fontSize=48&height=220&animation=fadeIn&fontAlignY=38" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6FB5&center=true&vCenter=true&width=820&lines=Software+Developer+%C2%B7+Python+%C2%B7+Web+%C2%B7+Prompt+Engineer;%24+whoami+%E2%86%92+Software+Developer;%24+ls+%2Fprojects+%E2%86%92+Warehouse+Automation+%C2%B7+AI+Assistant;%24+cat+open-to.txt+%E2%86%92+Backend+%2F+AI+roles" />
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=1A0F17&labelColor=1A0F17)](mailto:tasmiaiftikhar93@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FF6FB5?style=for-the-badge&logo=github&logoColor=1A0F17&labelColor=1A0F17)](https://github.com/codewith-tasmiaiftikhar)
 
 </div>
+
 
 ## 🦋 About Me
 
