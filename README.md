@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewith-tasmiaiftikhar&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
 </p>
 
 <!-- ======================= TECH STACK ======================= -->
