@@ -1,18 +1,10 @@
-<!-- ======================= HEADER ======================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:DA70D6&height=150&section=header&animation=fadeIn"/>
-</p>
-
 <!-- ======================= GIF ======================= -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </p>
 
-<!-- ======================= NAME + TYPING ======================= -->
-
-<h1 align="center">Tasmia Iftikhar</h1>
+<!-- ======================= TYPING ======================= -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tasmia+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Warehouse+Automation+%F0%9F%8F%AD;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL;Building+Smart+%26+Useful+Software+%F0%9F%9A%80"/>
