@@ -15,26 +15,6 @@
 </p>
 
 <br>
-
-<!-- ======================= ABOUT ======================= -->
-
-<h2 align="center">👋 About Me</h2>
-
-<p align="center">
-I'm a <b>Software Developer</b> interested in building practical software, automation systems and efficient digital workflows.
-</p>
-
-<p align="center">
-💻 Software Development &nbsp;•&nbsp; 🏭 Warehouse Automation &nbsp;•&nbsp; ⚙️ Process Automation<br>
-🔗 API Integration &nbsp;•&nbsp; 📊 Operational Tools &nbsp;•&nbsp; 🗄️ Database Applications
-</p>
-
-<p align="center">
-I enjoy turning complex and repetitive processes into <b>simple, reliable and useful software.</b>
-</p>
-
-<br>
-
 <!-- ======================= CURRENTLY ======================= -->
 
 <h2 align="center">🚀 CURRENTLY WORKING ON</h2>
