@@ -14,17 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=codewith-tasmiaiftikhar&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
 </p>
 
-<br>
-<!-- ======================= CURRENTLY ======================= -->
-
-<h2 align="center">🚀 CURRENTLY WORKING ON</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Warehouse+Automation;Operational+Software;FastAPI+Backends;React+Applications;PostgreSQL;Process+Automation"/>
-</p>
-
-<br>
-
 <!-- ======================= TECH STACK ======================= -->
 
 <h2 align="center">🛠️ TECH STACK</h2>
@@ -34,6 +23,13 @@
 </p>
 
 <br>
+<!-- ======================= CURRENTLY ======================= -->
+
+<h2 align="center">🚀 CURRENTLY WORKING ON</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Warehouse+Automation;Operational+Software;FastAPI+Backends;React+Applications;PostgreSQL;Process+Automation"/>
+</p>
 
 <!-- ======================= PHILOSOPHY ======================= -->
 
