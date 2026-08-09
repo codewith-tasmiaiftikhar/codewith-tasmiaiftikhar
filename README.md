@@ -1,21 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=1A0F17&fontColor=FF6FB5&text=Tasmia%20Iftikhar&fontSize=38&desc=Software%20Developer%20%C2%B7%20Python%20%C2%B7%20Web%20%C2%B7%20Prompt%20Engineer&descColor=FFB6D9&descAlignY=70&height=300&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,10,14&text=Tasmia%20Iftikhar&fontColor=FDEAF3&fontSize=48&height=220&animation=fadeIn&fontAlignY=38" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6FB5&center=true&vCenter=true&width=820&lines=Software+Developer+%C2%B7+Python+%C2%B7+Web+%C2%B7+Prompt+Engineer;%24+whoami+%E2%86%92+Software+Developer;%24+ls+%2Fprojects+%E2%86%92+Warehouse+Automation+%C2%B7+AI+Assistant;%24+cat+open-to.txt+%E2%86%92+Backend+%2F+AI+roles" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=FF6FB5&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Software+Developer;%24+ls+%2Fprojects+%E2%86%92+Warehouse+Automation+%C2%B7+AI+Assistant;%24+cat+open-to.txt+%E2%86%92+Backend+%2F+AI+roles" />
-
-</div>
-
-<div align="center">
+<br>
 
 [![Email](https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=1A0F17&labelColor=1A0F17)](mailto:tasmiaiftikhar93@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FF6FB5?style=for-the-badge&logo=github&logoColor=1A0F17&labelColor=1A0F17)](https://github.com/codewith-tasmiaiftikhar)
+![Profile Views](https://komarev.com/ghpvc/?username=codewith-tasmiaiftikhar&style=for-the-badge&color=FF6FB5&labelColor=1A0F17)
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
 
 ## `> whoami`
 
@@ -30,6 +29,8 @@ FOCUS    =  Automation  |  Full-Stack Web  |  AI Integration
 OPEN_TO  =  Backend / AI-focused roles
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
+
 ## `> tech-stack`
 
 <div align="center">
@@ -37,6 +38,8 @@ OPEN_TO  =  Backend / AI-focused roles
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,nodejs,postgres,git&theme=dark" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
 
 ## `> expertise`
 
@@ -47,10 +50,13 @@ OPEN_TO  =  Backend / AI-focused roles
 | Automation | 82% | Warehouse operations automation tooling |
 | AI Integration | 72% | LLM integrations and prompt engineering for accurate outputs |
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
+
 ## `> featured-projects`
 
 <details open>
 <summary><b>&#9654; Warehouse Automation &mdash; Streamlining operations</b></summary>
+<br>
 
 Python applications built to automate and streamline warehouse operations.
 
@@ -65,6 +71,7 @@ Python applications built to automate and streamline warehouse operations.
 
 <details>
 <summary><b>&#9654; Personal AI Assistant &mdash; Conversational AI with LLM APIs</b></summary>
+<br>
 
 A personal AI assistant built with Python and LLM integrations.
 
@@ -79,6 +86,7 @@ A personal AI assistant built with Python and LLM integrations.
 
 <details>
 <summary><b>&#9654; Web Applications &mdash; Full-stack apps</b></summary>
+<br>
 
 Full-stack web applications with a React frontend and FastAPI backend.
 
@@ -93,6 +101,7 @@ Full-stack web applications with a React frontend and FastAPI backend.
 
 <details>
 <summary><b>&#9654; Prompt Engineering &mdash; Reliable, accurate LLM outputs</b></summary>
+<br>
 
 Engineered prompts for AI tools to consistently improve output accuracy.
 
@@ -104,6 +113,8 @@ Engineered prompts for AI tools to consistently improve output accuracy.
 | **Repo** | Add link |
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
 
 ## `> experience`
 
@@ -117,11 +128,15 @@ Engineered prompts for AI tools to consistently improve output accuracy.
 
 `Python` `React` `Vite` `Node.js` `FastAPI` `PostgreSQL` `SQLAlchemy`
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
+
 ## `> certifications`
 
 - 🏅 Python Essentials — Cisco NetAcad
 - 🏅 Programming Certificates
 - 🏅 IT Internship Completion
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
 
 ## `> github-analytics`
 
@@ -145,6 +160,8 @@ Engineered prompts for AI tools to consistently improve output accuracy.
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
+
 ## `> cat current-focus.yaml`
 
 ```yaml
@@ -160,18 +177,8 @@ open_to:
   - AI & Prompt Engineering roles
 ```
 
-## `> connect`
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=1A0F17&labelColor=1A0F17)](mailto:tasmiaiftikhar93@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6FB5?style=for-the-badge&logo=github&logoColor=1A0F17&labelColor=1A0F17)](https://github.com/codewith-tasmiaiftikhar)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,10,14&height=150&section=footer" />
 
 </div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=1A0F17&fontColor=FF6FB5&height=100&section=footer" />
-
-</div>
-
