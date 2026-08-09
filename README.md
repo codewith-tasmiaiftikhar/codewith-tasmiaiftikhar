@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=800" />
 
 ## `> whoami`
 
@@ -28,7 +28,7 @@ FOCUS    =  Automation  |  Full-Stack Web  |  AI Integration
 OPEN_TO  =  Backend / AI-focused roles
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=800" />
 
 ## `> tech-stack`
 
@@ -38,7 +38,7 @@ OPEN_TO  =  Backend / AI-focused roles
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=800" />
 
 ## `> expertise`
 
@@ -49,7 +49,7 @@ OPEN_TO  =  Backend / AI-focused roles
 | Automation | 82% | Warehouse operations automation tooling |
 | AI Integration | 72% | LLM integrations and prompt engineering for accurate outputs |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=800" />
 
 ## `> featured-projects`
 
@@ -113,7 +113,7 @@ Engineered prompts for AI tools to consistently improve output accuracy.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=800" />
 
 ## `> experience`
 
@@ -127,7 +127,7 @@ Engineered prompts for AI tools to consistently improve output accuracy.
 
 `Python` `React` `Vite` `Node.js` `FastAPI` `PostgreSQL` `SQLAlchemy`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=800" />
 
 ## `> certifications`
 
@@ -135,7 +135,7 @@ Engineered prompts for AI tools to consistently improve output accuracy.
 - 🏅 Programming Certificates
 - 🏅 IT Internship Completion
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=800" />
 
 ## `> github-analytics`
 
@@ -159,7 +159,7 @@ Engineered prompts for AI tools to consistently improve output accuracy.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=100%" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=1A0F17&height=2&width=800" />
 
 ## `> cat current-focus.yaml`
 
