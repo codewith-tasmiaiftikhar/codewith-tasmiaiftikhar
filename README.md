@@ -8,7 +8,6 @@
 
 [![Email](https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=1A0F17&labelColor=1A0F17)](mailto:tasmiaiftikhar93@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FF6FB5?style=for-the-badge&logo=github&logoColor=1A0F17&labelColor=1A0F17)](https://github.com/codewith-tasmiaiftikhar)
-![Profile Views](https://komarev.com/ghpvc/?username=codewith-tasmiaiftikhar&style=for-the-badge&color=FF6FB5&labelColor=1A0F17)
 
 </div>
 
