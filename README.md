@@ -1,35 +1,314 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--                    ANIMATED HEADER                        -->
+<!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF4FA3,100:8A3FFC&height=200&text=HELLO%20WORLD&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Welcome%20to%20my%20profile&descSize=18&descColor=ffffff&descAlignY=62&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:DA70D6&height=220&section=header&text=HELLO%20WORLD&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=WELCOME%20TO%20MY%20PROFILE&descAlignY=58&descSize=18"/>
+</p>
 
-### Tasmia Iftikhar
+<!-- ========================================================= -->
+<!--                    TYPING ANIMATION                       -->
+<!-- ========================================================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=Software+Engineer;Python+Developer;Automation;AI+%26+Prompt+Engineering" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tasmia+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Warehouse+Automation+%F0%9F%8F%AD;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL;Building+Smart+%26+Useful+Software+%F0%9F%9A%80" />
+</p>
+
+<!-- ========================================================= -->
+<!--                       INTRO                                -->
+<!-- ========================================================= -->
+
+<h1 align="center">👩‍💻 I'M TASMIA!</h1>
+
+<p align="center">
+  <i>Software Developer • Automation • Process Improvement</i>
+</p>
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasmiaiftikhar93@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6FB5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewith-tasmiaiftikhar)
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👋 About Me
+
+I'm a **Software Developer** focused on building practical software and automation solutions that solve real-world problems.
+
+💻 I work with modern web technologies and backend systems.
+
+🏭 I build and maintain software for **warehouse and operational automation**.
+
+⚙️ I enjoy turning repetitive manual processes into simple automated workflows.
+
+📦 My work involves shipping, labeling, order processing, warehouse workflows and operational tools.
+
+🧠 I'm continuously learning, improving and experimenting with better ways to build software.
+
+🚀 **My goal:** Build software that is simple, useful and actually makes people's work easier.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,postgres,git" />
+### ⚡ What I Do
 
-<img src="https://github-readme-stats.vercel.app/api?username=codewith-tasmiaiftikhar&show_icons=true&hide_border=true&title_color=FF6FB5&icon_color=C77DFF&text_color=333333" height="165" />
+- 🏭 Warehouse Automation
+- 🔧 Business Process Automation
+- 🏷️ Shipping & Label Systems
+- 🔗 API Integrations
+- 📦 Order & Workflow Management
+- 📊 Operational Reporting
+- 💻 Full-Stack Development
+- 🗄️ Database Applications
 
-</div>
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
-Software Developer building automation tools and AI-powered systems, mostly with Python, FastAPI, and React.
+<!-- ========================================================= -->
+<!--                    CURRENT FOCUS                            -->
+<!-- ========================================================= -->
 
-### Currently
-- Building full-stack apps with FastAPI + React + PostgreSQL
-- Working on a personal AI assistant with LLM integrations
-- Sharpening prompt engineering for more reliable AI outputs
+<h2 align="center">🚀 CURRENTLY WORKING ON</h2>
 
-### Featured projects
-- **Warehouse Automation** — Python tooling that automates warehouse operations
-- **Personal AI Assistant** — a conversational assistant built on Python + LLM APIs
-- **Web Applications** — full-stack apps using React, FastAPI, and PostgreSQL
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Warehouse+Automation+Systems;Improving+Operational+Workflows;Developing+FastAPI+Backends;Creating+React+Interfaces;Working+with+PostgreSQL;Automating+Repetitive+Processes" />
+</p>
 
+<br>
+
+<!-- ========================================================= -->
+<!--                    WHAT I BUILD                            -->
+<!-- ========================================================= -->
+
+<h2 align="center">🏭 WHAT I BUILD</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🏷️
+**Shipping Label**
+
+Automation for shipping labels and order processing.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+**Rules Engine**
+
+Automating shipping and order-related decisions.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🇬🇧
+**UK Warehouse**
+
+Tools supporting UK warehouse operations.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🇵🇰
+**Pakistan Warehouse**
+
+Applications supporting local warehouse workflows.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    TECH STACK                              -->
+<!-- ========================================================= -->
+
+<h2 align="center">🛠️ TECH STACK</h2>
+
+<h3 align="center">💻 Languages</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+
+</p>
+
+<h3 align="center">⚡ Frameworks & Development</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,vite,nodejs" />
+
+</p>
+
+<h3 align="center">🗄️ Database & DevOps</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite,docker,git,github" />
+
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    TOOL BADGES                             -->
+<!-- ========================================================= -->
+
+<h2 align="center">🔧 TECHNOLOGIES I WORK WITH</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    MY APPROACH                             -->
+<!-- ========================================================= -->
+
+<h2 align="center">💡 MY DEVELOPMENT PHILOSOPHY</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=9B59B6&center=true&vCenter=true&width=800&lines=Understand+the+problem+%E2%86%92+Simplify+the+process;Automate+the+repetitive+%E2%86%92+Improve+the+workflow;Build+simple+%E2%86%92+Make+it+useful+%E2%86%92+Keep+improving" />
+</p>
+
+<blockquote align="center">
+
+**"Good software isn't just about writing code —  
+it's about making work easier."**
+
+</blockquote>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    GITHUB STATS                            -->
+<!-- ========================================================= -->
+
+<h2 align="center">📊 GITHUB STATISTICS</h2>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    STREAK                                  -->
+<!-- ========================================================= -->
+
+<h2 align="center">🔥 GITHUB STREAK</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    CONTRIBUTIONS                           -->
+<!-- ========================================================= -->
+
+<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=9B59B6&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    SNAKE ANIMATION                         -->
+<!-- ========================================================= -->
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    LEARNING                               -->
+<!-- ========================================================= -->
+
+<h2 align="center">🌱 CURRENTLY LEARNING</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20Backend-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database%20Design-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-8A2BE2?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    CONNECT                                -->
+<!-- ========================================================= -->
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    VISITOR                                -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square" />
+</p>
+
+<!-- ========================================================= -->
+<!--                    FOOTER                                 -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:DA70D6&height=120&section=footer&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <b>✨ Thanks for visiting my profile! ✨</b>
+</p>
