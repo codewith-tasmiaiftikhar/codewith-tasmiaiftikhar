@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                    ANIMATED HEADER                        -->
+<!--                     ANIMATED HEADER                       -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -11,26 +11,20 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tasmia+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Warehouse+Automation+%F0%9F%8F%AD;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL;Building+Smart+%26+Useful+Software+%F0%9F%9A%80" />
-</p>
-
-<!-- ========================================================= -->
-<!--                       INTRO                                -->
-<!-- ========================================================= -->
-
-<h1 align="center">👩‍💻 I'M TASMIA!</h1>
-
-<p align="center">
-  <i>Software Developer • Automation • Process Improvement</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tasmia+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Warehouse+Automation+%F0%9F%8F%AD;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL;Building+Smart+%26+Useful+Software+%F0%9F%9A%80"/>
 </p>
 
 <br>
 
+<!-- ========================================================= -->
+<!--                    ABOUT ME + GIF                          -->
+<!-- ========================================================= -->
+
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-### 👋 About Me
+## 👋 About Me
 
 I'm a **Software Developer** focused on building practical software and automation solutions that solve real-world problems.
 
@@ -42,11 +36,9 @@ I'm a **Software Developer** focused on building practical software and automati
 
 📦 My work involves shipping, labeling, order processing, warehouse workflows and operational tools.
 
-🧠 I'm continuously learning, improving and experimenting with better ways to build software.
+🧠 I'm continuously learning, improving and finding better ways to build software.
 
 🚀 **My goal:** Build software that is simple, useful and actually makes people's work easier.
-
-<br>
 
 ### ⚡ What I Do
 
@@ -61,13 +53,13 @@ I'm a **Software Developer** focused on building practical software and automati
 
 </td>
 
-<td width="40%" align="center">
+<td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=codewith-tasmiaiftikhar&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
 
 </td>
 </tr>
@@ -76,13 +68,13 @@ I'm a **Software Developer** focused on building practical software and automati
 <br>
 
 <!-- ========================================================= -->
-<!--                    CURRENT FOCUS                            -->
+<!--                    CURRENT FOCUS                           -->
 <!-- ========================================================= -->
 
 <h2 align="center">🚀 CURRENTLY WORKING ON</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Warehouse+Automation+Systems;Improving+Operational+Workflows;Developing+FastAPI+Backends;Creating+React+Interfaces;Working+with+PostgreSQL;Automating+Repetitive+Processes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Warehouse+Automation+Systems;Improving+Operational+Workflows;Developing+FastAPI+Backends;Creating+React+Interfaces;Working+with+PostgreSQL;Automating+Repetitive+Processes"/>
 </p>
 
 <br>
@@ -95,9 +87,11 @@ I'm a **Software Developer** focused on building practical software and automati
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
 ### 🏷️
+
 **Shipping Label**
 
 Automation for shipping labels and order processing.
@@ -107,7 +101,8 @@ Automation for shipping labels and order processing.
 <td align="center" width="25%">
 
 ### ⚙️
-**Rules Engine**
+
+**Shipping Rules Engine**
 
 Automating shipping and order-related decisions.
 
@@ -116,6 +111,7 @@ Automating shipping and order-related decisions.
 <td align="center" width="25%">
 
 ### 🇬🇧
+
 **UK Warehouse**
 
 Tools supporting UK warehouse operations.
@@ -125,11 +121,13 @@ Tools supporting UK warehouse operations.
 <td align="center" width="25%">
 
 ### 🇵🇰
+
 **Pakistan Warehouse**
 
 Applications supporting local warehouse workflows.
 
 </td>
+
 </tr>
 </table>
 
@@ -144,123 +142,93 @@ Applications supporting local warehouse workflows.
 <h3 align="center">💻 Languages</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
-
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css"/>
 </p>
 
 <h3 align="center">⚡ Frameworks & Development</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,react,vite,nodejs" />
-
+  <img src="https://skillicons.dev/icons?i=fastapi,react,vite,nodejs"/>
 </p>
 
 <h3 align="center">🗄️ Database & DevOps</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite,docker,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,docker,git,github"/>
 </p>
 
 <br>
 
 <!-- ========================================================= -->
-<!--                    TOOL BADGES                             -->
-<!-- ========================================================= -->
-
-<h2 align="center">🔧 TECHNOLOGIES I WORK WITH</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                    MY APPROACH                             -->
+<!--                    DEVELOPMENT PHILOSOPHY                  -->
 <!-- ========================================================= -->
 
 <h2 align="center">💡 MY DEVELOPMENT PHILOSOPHY</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=9B59B6&center=true&vCenter=true&width=800&lines=Understand+the+problem+%E2%86%92+Simplify+the+process;Automate+the+repetitive+%E2%86%92+Improve+the+workflow;Build+simple+%E2%86%92+Make+it+useful+%E2%86%92+Keep+improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=9B59B6&center=true&vCenter=true&width=800&lines=Understand+the+problem+%E2%86%92+Simplify+the+process;Automate+the+repetitive+%E2%86%92+Improve+the+workflow;Build+simple+%E2%86%92+Make+it+useful+%E2%86%92+Keep+improving"/>
 </p>
 
 <blockquote align="center">
 
-**"Good software isn't just about writing code —  
-it's about making work easier."**
+<b>"Good software isn't just about writing code — it's about making work easier."</b>
 
 </blockquote>
 
 <br>
 
 <!-- ========================================================= -->
-<!--                    GITHUB STATS                            -->
+<!--                    GITHUB STATISTICS                       -->
 <!-- ========================================================= -->
 
 <h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=codewith-tasmiaiftikhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-tasmiaiftikhar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
 
 <!-- ========================================================= -->
-<!--                    STREAK                                  -->
+<!--                    GITHUB STREAK                           -->
 <!-- ========================================================= -->
 
 <h2 align="center">🔥 GITHUB STREAK</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=codewith-tasmiaiftikhar&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
 
 <!-- ========================================================= -->
-<!--                    CONTRIBUTIONS                           -->
+<!--                    ACTIVITY GRAPH                           -->
 <!-- ========================================================= -->
 
 <h2 align="center">📈 CONTRIBUTION GRAPH</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=9B59B6&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewith-tasmiaiftikhar&bg_color=0d1117&color=9B59B6&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 <br>
 
 <!-- ========================================================= -->
-<!--                    SNAKE ANIMATION                         -->
+<!--                    CONTRIBUTION SNAKE                       -->
 <!-- ========================================================= -->
 
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/codewith-tasmiaiftikhar/codewith-tasmiaiftikhar/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <br>
 
 <!-- ========================================================= -->
-<!--                    LEARNING                               -->
+<!--                    CURRENTLY LEARNING                       -->
 <!-- ========================================================= -->
 
 <h2 align="center">🌱 CURRENTLY LEARNING</h2>
@@ -278,15 +246,15 @@ it's about making work easier."**
 <br>
 
 <!-- ========================================================= -->
-<!--                    CONNECT                                -->
+<!--                    CONNECT                                 -->
 <!-- ========================================================= -->
 
 <h2 align="center">🤝 LET'S CONNECT</h2>
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/codewith-tasmiaiftikhar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -294,15 +262,7 @@ it's about making work easier."**
 <br>
 
 <!-- ========================================================= -->
-<!--                    VISITOR                                -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square" />
-</p>
-
-<!-- ========================================================= -->
-<!--                    FOOTER                                 -->
+<!--                    FOOTER                                  -->
 <!-- ========================================================= -->
 
 <p align="center">
