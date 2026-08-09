@@ -1,51 +1,45 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:DA70D6&height=220&section=header&text=HELLO%20WORLD&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=WELCOME%20TO%20MY%20PROFILE&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:DA70D6&height=150&section=header&animation=fadeIn"/>
 </p>
 
-<!-- ======================= TYPING ======================= -->
+<!-- ======================= GIF ======================= -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</p>
+
+<!-- ======================= NAME + TYPING ======================= -->
+
+<h1 align="center">Tasmia Iftikhar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tasmia+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Warehouse+Automation+%F0%9F%8F%AD;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL;Building+Smart+%26+Useful+Software+%F0%9F%9A%80"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codewith-tasmiaiftikhar&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
 </p>
 
 <br>
 
 <!-- ======================= ABOUT ======================= -->
 
-<table>
-<tr>
+<h2 align="center">👋 About Me</h2>
 
-<td width="65%" valign="top">
+<p align="center">
+I'm a <b>Software Developer</b> interested in building practical software, automation systems and efficient digital workflows.
+</p>
 
-## 👋 About Me
+<p align="center">
+💻 Software Development &nbsp;•&nbsp; 🏭 Warehouse Automation &nbsp;•&nbsp; ⚙️ Process Automation<br>
+🔗 API Integration &nbsp;•&nbsp; 📊 Operational Tools &nbsp;•&nbsp; 🗄️ Database Applications
+</p>
 
-I'm a **Software Developer** interested in building practical software, automation systems and efficient digital workflows.
-
-- 💻 Software Development
-- 🏭 Warehouse Automation
-- ⚙️ Process Automation
-- 🔗 API Integration
-- 📊 Operational Tools
-- 🗄️ Database Applications
-
-I enjoy turning complex and repetitive processes into **simple, reliable and useful software.**
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=codewith-tasmiaiftikhar&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+I enjoy turning complex and repetitive processes into <b>simple, reliable and useful software.</b>
+</p>
 
 <br>
 
@@ -110,34 +104,15 @@ I enjoy turning complex and repetitive processes into **simple, reliable and use
 
 <br>
 
-<!-- ======================= SNAKE ======================= -->
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/codewith-tasmiaiftikhar/codewith-tasmiaiftikhar/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/codewith-tasmiaiftikhar/codewith-tasmiaiftikhar/output/github-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/codewith-tasmiaiftikhar/codewith-tasmiaiftikhar/output/github-snake.svg"
-  />
-</picture>
-
-<br>
-
 <!-- ======================= CONNECT ======================= -->
 
 <h2 align="center">🤝 LET'S CONNECT</h2>
 
 <p align="center">
+
+<a href="mailto:tasmiaiftikhar93@gmail.com">
+<img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://github.com/codewith-tasmiaiftikhar">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
